@@ -2,7 +2,7 @@
 
 Выполните команды
   
-  npm i && bower i
-  webpack
+    > npm i && bower i
+    > webpack
   
 затем запустите статический сервер из папки wwwroot/dist/
